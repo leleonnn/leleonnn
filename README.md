@@ -1,17 +1,16 @@
-## Hello, random person 👋 
+# Hello, random person 👋 
 <br/>
 
-## My name is Leonard Mars Kurniaputra.
+## My name is Leonard Mars Kurniaputra.👨‍💻
 I'm a college student trying to survive college. Help :)
 
 - 🏫 : Information Engineering at UGM
 - 🙎‍♂️ : He/Him
-- 🎱 : Tennis, Photography
+- 🎱 : Tenis, Photography
 - 🎮 : Valorant, Mobile Legends
 <br/>
 
-## Follow me:
-
+## Follow me :
 [<img align="left" alt="leleonnn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="leleonnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
