@@ -1,7 +1,7 @@
 ## Hello, random person 👋 
 <br/>
-
 ## My name is Leonard Mars Kurniaputra.
+# I'm a college student trying to survive college. Help :)
 <br/>
 
 - 🏫 : Information Engineering at UGM
