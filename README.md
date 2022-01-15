@@ -7,7 +7,7 @@ Still learning programming and #1 programmer in my dreams.
 
 - 🏫 : Information Engineering at UGM
 - 🙎‍♂️ : He/Him
-- 🎱 : Tenis, Photography
+- 🎱 : Tennis, Photography, Video Games
 - 🎮 : Valorant, Mobile Legends
 <br/>
 
