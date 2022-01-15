@@ -1,4 +1,4 @@
-# Hello, random person 👋 
+# Hello, random person 👋
 <br/>
 
 ## My name is Leonard Mars Kurniaputra.
@@ -11,8 +11,8 @@ I'm a college student trying to survive college. Help :)
 <br/>
 
 ## Follow me :
-[<img align="left" alt="leleonnn | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[<img align="left" alt="leleonnn | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 ---
 
