@@ -2,7 +2,8 @@
 <br/>
 
 ## My name is Leonard Mars Kurniaputra.
-I'm a college student trying to survive college. Help :)
+I'm a college student trying to survive college. Help :) <br/>
+Still learning programming and #1 programmer in my dreams.
 
 - 🏫 : Information Engineering at UGM
 - 🙎‍♂️ : He/Him
