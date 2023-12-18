@@ -5,10 +5,6 @@
 I'm a college student trying to survive college. Help :) <br/>
 Still learning programming and #1 programmer in my dreams.
 
-- 🏫 : Information Engineering at UGM
-- 🙎‍♂️ : He/Him
-- 🎱 : Tennis, Photography, Video Games
-- 🎮 : Valorant, Mobile Legends
 <br/>
 
 ## Follow me :
